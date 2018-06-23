@@ -1,0 +1,8 @@
+{
+  "name": "geolocalizacion",
+  "app_id": "001fb61f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
